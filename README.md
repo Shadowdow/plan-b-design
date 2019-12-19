@@ -17,7 +17,7 @@
 - [ ] Icon -- zzw
 - [ ] Card -- zy
 - [ ] Button -- zy
-- [ ] Tooltip -- zy
+- [x] Tooltip -- zy
 - [ ] modal(多个弹窗出现) -- zy
 - [ ] badge -- zzw
 - [ ] Input
